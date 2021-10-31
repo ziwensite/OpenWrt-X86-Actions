@@ -21,6 +21,6 @@ git clone https://github.com/Zisbusy/openwrt-packages.git
 cd openwrt-packages
 rm -rf .git
 rm -rf README.md
-cp * ../
+cp -r * ../
 cd ../
 rm -rf openwrt-packages
