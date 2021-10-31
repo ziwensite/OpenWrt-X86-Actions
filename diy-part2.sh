@@ -16,3 +16,11 @@
 cd package/lean
 rm -rf luci-theme-argon
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git
+
+git clone git@github.com:Zisbusy/openwrt-packages.git
+cd openwrt-packages
+rm -rf .git
+rm -rf README.md
+cp * ../
+cd ../
+rm -rf openwrt-packages
