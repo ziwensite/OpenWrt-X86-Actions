@@ -22,3 +22,6 @@ cd dockerman/applications/luci-app-dockerman
 cp -r * ../../../
 cd ../../../
 rm -rf dockerman
+
+cd ../
+git clone https://github.com/fw876/helloworld.git
