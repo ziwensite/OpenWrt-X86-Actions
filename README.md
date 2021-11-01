@@ -12,8 +12,8 @@
 - https://github.com/jerrykuku/luci-theme-argon    
 - https://github.com/fw876/helloworld    
 
-## 图片
 ![image](https://github.com/Zisbusy/OpenWrt-X86-Actions/raw/main/index.png)
+
 ## Credits
 
 - [Microsoft Azure](https://azure.microsoft.com)
