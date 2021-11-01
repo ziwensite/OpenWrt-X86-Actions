@@ -4,8 +4,8 @@
 编译出的固件用于虚拟机，极度精简，只包含基础路由功能，IPV6，魔法上网，Docker。    
 
 
-项目来自：https://github.com/P3TERX/Actions-OpenWrt
-中文教程：https://p3terx.com/archives/build-openwrt-with-github-actions.html
+项目来自：https://github.com/P3TERX/Actions-OpenWrt    
+中文教程：https://p3terx.com/archives/build-openwrt-with-github-actions.html    
 
 ## Credits
 
