@@ -18,9 +18,9 @@ rm -rf luci-theme-argon
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git
 
 git clone https://github.com/lisaac/luci-app-dockerman.git dockerman
-cd dockerman/applications/luci-app-dockerman
-cp -r * ../../../
-cd ../../../
+cd dockerman/applications/
+cp -r luci-app-dockerman ../../
+cd ../../
 rm -rf dockerman
 
 cd ../
