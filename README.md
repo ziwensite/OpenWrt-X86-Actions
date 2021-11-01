@@ -7,12 +7,13 @@
 项目来自：https://github.com/P3TERX/Actions-OpenWrt    
 中文教程：https://p3terx.com/archives/build-openwrt-with-github-actions.html  
 
-![image](https://github.com/Zisbusy/OpenWrt-X86-Actions/raw/main/index.png)
-
 ## 使用的一些包
 - https://github.com/lisaac/luci-app-dockerman    
 - https://github.com/jerrykuku/luci-theme-argon    
 - https://github.com/fw876/helloworld    
+
+## 图片
+![image](https://github.com/Zisbusy/OpenWrt-X86-Actions/raw/main/index.png)
 ## Credits
 
 - [Microsoft Azure](https://azure.microsoft.com)
