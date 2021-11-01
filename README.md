@@ -5,7 +5,11 @@
 
 
 项目来自：https://github.com/P3TERX/Actions-OpenWrt    
-中文教程：https://p3terx.com/archives/build-openwrt-with-github-actions.html    
+中文教程：https://p3terx.com/archives/build-openwrt-with-github-actions.html  
+## 使用的一些包
+- https://github.com/lisaac/luci-app-dockerman    
+- https://github.com/jerrykuku/luci-theme-argon    
+- https://github.com/fw876/helloworld    
 
 ## Credits
 
