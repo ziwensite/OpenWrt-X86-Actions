@@ -10,7 +10,7 @@
 - https://github.com/lisaac/luci-app-dockerman    
 - https://github.com/jerrykuku/luci-theme-argon    
 - https://github.com/fw876/helloworld    
-- ![image](https://github.com/Zisbusy/OpenWrt-X86-Actions/raw/master/index.png)
+- ![image](https://github.com/Zisbusy/OpenWrt-X86-Actions/raw/main/index.png)
 ## Credits
 
 - [Microsoft Azure](https://azure.microsoft.com)
