@@ -1,6 +1,6 @@
 # Actions-OpenWrt
 使用 Github Actions 编译 OpenWrt。    
-每个月，月底自动编译。    
+每个月一号自动编译。    
 编译出的固件用于虚拟机，极度精简，只包含基础路由功能，IPV6，魔法上网，Docker。    
 
 
